@@ -41,3 +41,9 @@ Angular x Firebase = ❤️
 - 技術選定、人材選定にまつわる助言
 - 技術的可否の判断と最適解のご提案
 - チャットによる無制限な質問
+
+## お問い合わせ
+
+- [Twitter DM](https://twitter.com/d151005)
+- [Facebook DM](https://www.facebook.com/dninomiya.deer/)
+- [daichi.ninomiya@deer.co.jp](mailto:daichi.ninomiya@deer.co.jp)
