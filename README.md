@@ -1,20 +1,25 @@
 ## Profile
 
-Angular x Firebase = ❤️
+Web Developer
 
 - [Twitter](https://twitter.com/d151005)
 - [YouTube](https://www.youtube.com/channel/UCUPq5dKFGnOziaqYI-ejYcg?view_as=subscriber)
 
+## Skills
+
+- Next.js / Tailwind CSS
+- Firebase
+- Algolia / Stripe / SendGrid
+
 ## Services
 
 - [CAMP](https://to.camp/about)
-- [Update](https://update.jp/)
+- [Flock](https://flock.codes/)
 
 ## Tools
 
 - [Emoji Favicon Generator](https://deerboy.github.io/emoji-favicon-generator/)
 - [GitHub Importer](https://deerboy.github.io/gh-importer/)
-- [GitHub Issue Manager](https://deer-inc.github.io/gim/)
 - [GitHub Issue Manager](https://deer-inc.github.io/gim/)
 - [Invoice Generator](https://deer-inc.github.io/invoice-generator/)
 - [Angular LP Library](https://deer-inc.github.io/ng-lp/)
@@ -44,6 +49,6 @@ Angular x Firebase = ❤️
 
 ## お問い合わせ
 
-- [Twitter DM](https://twitter.com/d151005)
-- [Facebook DM](https://www.facebook.com/dninomiya.deer/)
+- [Twitter](https://twitter.com/d151005)
+- [Facebook](https://www.facebook.com/dninomiya.deer/)
 - [daichi.ninomiya@deer.co.jp](mailto:daichi.ninomiya@deer.co.jp)
